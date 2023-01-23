@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Dancing+Script&display=swap');
+@font-face {
+    font-family: 'Blacksword';
+    src: url(/font/Blacksword.otf);
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+    background-image: url(/img/bunting.png);
+    background-repeat: repeat-x;
+    background-color:rgb(241, 238, 238);
+    text-align: center;
+}
+
+.titre{
+font-family: 'Blacksword';
+font-size: 4em ;
+font-weight: lighter;
+
+}
+
+h2 {
+    width: 25%;
+    text-align: left;
+    font-size: 2.5em;
+    font-family: 'Blacksword';
+    font-weight: lighter;
+    
+}
+
+p {
+    font-size: 1.2em;
+    word-spacing: 3px;
+    text-align: center;
+    font-family: 'Cardo';
+}
+
+span {
+    color: red;
+}
+
+.italic {
+    font-style: italic;
+    font-size: 1.4em;
+    word-spacing: 2px;
+}
+
+.name {
+text-align: right;
+font-style:italic ;
+word-spacing: 2px;
+font-size: 1em;
+
+}
+
